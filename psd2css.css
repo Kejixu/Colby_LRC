@@ -1,0 +1,514 @@
+/*
+ *
+ *  This is your external CSS style sheet. It defines all of the CSS styles that you
+ *  are using in your page.  If you are going to create multiple pages from the same
+ *  PSD file (like a template), you will share this CSS style sheet between the various
+ *  pages.
+ *
+ */
+
+body {
+  font-family: Geneva, Arial, Helvetica, sans-serif;
+  text-align: left;
+  font-size: small;
+  background-color: #dff2fe;
+}
+
+/* You named this layer white_center_bkgnd */
+#Layer-1 {
+  position: absolute;
+  margin-left: -495.5px;
+  left: 50%;
+  top: +0px;
+  width: 991px;
+  height: 768px;
+  z-index: 1;
+  background-image: url(Layer-1.png);
+  border: 2px #BACBFF solid;
+  padding-bottom:10px;
+}
+
+/* You named this layer Title */
+#Layer-2 {
+  position: absolute;
+  left: 181px;
+  top: 51px;
+  width: 620px;
+  height: 45px;
+  z-index: 2;
+}
+
+/* You named this layer Logo */
+#Layer-3 {
+  position: absolute;
+  left: 6px;
+  top: 2px;
+  width: 232px;
+  height: 121px;
+  z-index: 3;
+}
+
+/* You named this layer Academic Information Technology */
+#Layer-4 {
+  position: absolute;
+  left: 451px;
+  top: 109px;
+  width: 350px;
+  height: 15px;
+  z-index: 4;
+}
+
+/* You named this layer bar_center */
+#Layer-5 {
+	position: absolute;
+	margin-left: -493.5px;
+	left: 50%;
+	top: +134px;
+	width: 993px;
+	height: 26px;
+	z-index: 5;
+}
+
+/* You named this layer COLBY */
+#Layer-6 {
+  position: absolute;
+  left: 825px;
+  top: 6px;
+  width: 156px;
+  height: 80px;
+  z-index: 6;
+}
+
+/* You named this layer search */
+#Layer-7 {
+  position: absolute;
+  left: 848px;
+  top: 97px;
+  width: 117px;
+  height: 30px;
+  z-index: 7;
+}
+
+/* You named this layer divider 10 */
+#Layer-8 {
+  position: absolute;
+  left: 725px;
+  top: 730px;
+  width: 205px;
+  height: 1px;
+  z-index: 8;
+}
+
+/* You named this layer divider 9 */
+#Layer-9 {
+  position: absolute;
+  left: 725px;
+  top: 698px;
+  width: 205px;
+  height: 1px;
+  z-index: 9;
+}
+
+/* You named this layer divider 8 */
+#Layer-10 {
+  position: absolute;
+  left: 725px;
+  top: 667px;
+  width: 205px;
+  height: 1px;
+  z-index: 10;
+}
+
+/* You named this layer divider 7 */
+#Layer-11 {
+  position: absolute;
+  left: 725px;
+  top: 635px;
+  width: 205px;
+  height: 1px;
+  z-index: 11;
+}
+
+/* You named this layer divider 6 */
+#Layer-12 {
+  position: absolute;
+  left: 725px;
+  top: 604px;
+  width: 205px;
+  height: 1px;
+  z-index: 12;
+}
+
+/* You named this layer divider 5 */
+#Layer-13 {
+  position: absolute;
+  left: 725px;
+  top: 570px;
+  width: 205px;
+  height: 1px;
+  z-index: 13;
+}
+
+/* You named this layer divider 4 */
+#Layer-14 {
+  position: absolute;
+  left: 678px;
+  top: 541px;
+  width: 295px;
+  height: 1px;
+  z-index: 14;
+}
+
+/* You named this layer divider 3 */
+#Layer-15 {
+  position: absolute;
+  left: 723px;
+  top: 417px;
+  width: 205px;
+  height: 1px;
+  z-index: 15;
+}
+
+/* You named this layer divider 2 */
+#Layer-16 {
+  position: absolute;
+  left: 678px;
+  top: 366px;
+  width: 295px;
+  height: 1px;
+  z-index: 16;
+}
+
+/* You named this layer divider 1 */
+#Layer-17 {
+  position: absolute;
+  left: 718px;
+  top: 221px;
+  width: 205px;
+  height: 1px;
+  z-index: 17;
+}
+
+/* You named this layer vertical divider */
+#Layer-18 {
+  position: absolute;
+  left: 658px;
+  top: 183px;
+  width: 2px;
+  height: 568px;
+  z-index: 18;
+}
+
+/* You named this layer body_text */
+#Layer-19 {
+  position: absolute;
+  left: 40px;
+  top: 555px;
+  width: 570px;
+  height: 145px;
+  z-index: 19;
+}
+
+/* You named this layer footer_text */
+#Layer-20 {
+  position: absolute;
+  left: 50px;
+  top: 723px;
+  width: 513px;
+  height: 27px;
+  z-index: 20;
+}
+
+.footer {
+	color: #9c9b9b;
+	text-align:center
+	
+}
+
+.footer b {
+	color:#666
+	font-weight:bold
+}
+
+/* You named this layer Home    Virtual Lab    Media */
+#Layer-21 {
+  position: absolute;
+  left: 180px;
+  top: 5px;
+  width: 637px;
+  height: 18px;
+  z-index: 21;
+}
+
+/* You named this layer contact_linkover */
+#Layer-22 {
+  position: absolute;
+  left: 701px;
+  top: 0px;
+  width: 124px;
+  height: 26px;
+  z-index: 22;
+}
+
+/* You named this layer contact_link */
+#Layer-23 {
+  position: absolute;
+  left: 701px;
+  top: 0px;
+  width: 124px;
+  height: 26px;
+  z-index: 23;
+}
+
+/* You named this layer rosetta_linkover */
+#Layer-24 {
+  position: absolute;
+  left: 537px;
+  top: 0px;
+  width: 164px;
+  height: 26px;
+  z-index: 24;
+}
+
+/* You named this layer rosetta_link */
+#Layer-25 {
+  position: absolute;
+  left: 537px;
+  top: 0px;
+  width: 164px;
+  height: 26px;
+  z-index: 25;
+}
+
+/* You named this layer media_linkover */
+#Layer-26 {
+  position: absolute;
+  left: 381px;
+  top: 0px;
+  width: 156px;
+  height: 26px;
+  z-index: 26;
+}
+
+/* You named this layer media_link */
+#Layer-27 {
+  position: absolute;
+  left: 381px;
+  top: 0px;
+  width: 156px;
+  height: 26px;
+  z-index: 27;
+}
+
+/* You named this layer virtual_linkover */
+#Layer-28 {
+  position: absolute;
+  left: 249px;
+  top: 0px;
+  width: 132px;
+  height: 26px;
+  z-index: 28;
+}
+
+/* You named this layer virtual_link */
+#Layer-29 {
+  position: absolute;
+  left: 250px;
+  top: 0px;
+  width: 131px;
+  height: 26px;
+  z-index: 29;
+}
+
+/* You named this layer home_linkover */
+#Layer-30 {
+  position: absolute;
+  left: 173px;
+  top: 0px;
+  width: 77px;
+  height: 26px;
+  z-index: 30;
+}
+
+/* You named this layer home_link */
+#Layer-31 {
+  position: absolute;
+  left: 173px;
+  top: 0px;
+  width: 77px;
+  height: 26px;
+  z-index: 31;
+}
+
+/* You named this layer pic_jpg */
+#Layer-32 {
+  position: absolute;
+  left: 71px;
+  top: 183px;
+  width: 503px;
+  height: 364px;
+  z-index: 32;
+}
+
+/* You named this layer labass_linkover */
+#Layer-33 {
+  position: absolute;
+  left: 725px;
+  top: 699px;
+  width: 204px;
+  height: 31px;
+  z-index: 33;
+}
+
+/* You named this layer labass_link */
+#Layer-34 {
+  position: absolute;
+  left: 725px;
+  top: 699px;
+  width: 204px;
+  height: 31px;
+  z-index: 34;
+}
+
+/* You named this layer Reserve_linkover */
+#Layer-35 {
+  position: absolute;
+  left: 725px;
+  top: 668px;
+  width: 204px;
+  height: 30px;
+  z-index: 35;
+}
+
+/* You named this layer Reserve_link */
+#Layer-36 {
+  position: absolute;
+  left: 725px;
+  top: 668px;
+  width: 204px;
+  height: 30px;
+  z-index: 36;
+}
+
+/* You named this layer services_linkover */
+#Layer-37 {
+  position: absolute;
+  left: 725px;
+  top: 636px;
+  width: 204px;
+  height: 31px;
+  z-index: 37;
+}
+
+/* You named this layer services_link */
+#Layer-38 {
+  position: absolute;
+  left: 725px;
+  top: 636px;
+  width: 204px;
+  height: 31px;
+  z-index: 38;
+}
+
+/* You named this layer Facility_linkover */
+#Layer-39 {
+  position: absolute;
+  left: 725px;
+  top: 605px;
+  width: 204px;
+  height: 30px;
+  z-index: 39;
+}
+
+/* You named this layer Facility_link */
+#Layer-40 {
+  position: absolute;
+  left: 725px;
+  top: 605px;
+  width: 204px;
+  height: 30px;
+  z-index: 40;
+}
+
+/* You named this layer Resources_linkover */
+#Layer-41 {
+  position: absolute;
+  left: 725px;
+  top: 571px;
+  width: 204px;
+  height: 33px;
+  z-index: 41;
+}
+
+/* You named this layer Resources_link */
+#Layer-42 {
+  position: absolute;
+  left: 725px;
+  top: 571px;
+  width: 204px;
+  height: 33px;
+  z-index: 42;
+}
+
+/* You named this layer hours_text */
+#Layer-43 {
+  position: absolute;
+  left: 736px;
+  top: 427px;
+  width: 181px;
+  height: 92px;
+  z-index: 43;
+}
+
+.hours {
+	color:#0f116d;
+	text-align:center;
+	line-height:20px;
+}
+
+/* You named this layer Hours */
+#Layer-44 {
+  position: absolute;
+  left: 798px;
+  top: 394px;
+  width: 56px;
+  height: 15px;
+  z-index: 44;
+}
+
+/* You named this layer NewsContent_text */
+#Layer-45 {
+  position: absolute;
+  left: 687px;
+  top: 231px;
+  width: 277px;
+  height: 128px;
+  z-index: 45;
+}
+
+/* You named this layer News */
+#Layer-46 {
+  position: absolute;
+  left: 799px;
+  top: 197px;
+  width: 54px;
+  height: 16px;
+  z-index: 46;
+}
+
+a {
+  cursor: pointer;
+  outline: none;
+}
+a:link { color: #0c74cc;
+text-decoration:none;
+}
+
+a:visited { color: #07039a; 
+}
+
+a:hover {
+  color: #72aee4;
+ text-decoration: underline;
+  /* font-weight: bold; */
+}
