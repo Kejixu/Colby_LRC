@@ -14,7 +14,7 @@ body {
   background-color: #dff2fe;
 }
 
-/* You named this layer white_center_bkgnd */
+/* white_center_bkgnd */
 #Layer-1 {
   position: absolute;
   margin-left: -495.5px;
@@ -28,7 +28,7 @@ body {
   padding-bottom:10px;
 }
 
-/* You named this layer Title */
+/* Title */
 #Layer-2 {
   position: absolute;
   left: 181px;
@@ -38,7 +38,7 @@ body {
   z-index: 2;
 }
 
-/* You named this layer Logo */
+/* Logo */
 #Layer-3 {
   position: absolute;
   left: 6px;
@@ -48,7 +48,7 @@ body {
   z-index: 3;
 }
 
-/* You named this layer Academic Information Technology */
+/* Academic Information Technology */
 #Layer-4 {
   position: absolute;
   left: 451px;
@@ -58,7 +58,7 @@ body {
   z-index: 4;
 }
 
-/* You named this layer bar_center */
+/* bar_center */
 #Layer-5 {
 	position: absolute;
 	margin-left: -493.5px;
@@ -69,7 +69,7 @@ body {
 	z-index: 5;
 }
 
-/* You named this layer COLBY */
+/* COLBY */
 #Layer-6 {
   position: absolute;
   left: 825px;
@@ -79,7 +79,7 @@ body {
   z-index: 6;
 }
 
-/* You named this layer search */
+/* search */
 #Layer-7 {
   position: absolute;
   left: 848px;
@@ -89,7 +89,7 @@ body {
   z-index: 7;
 }
 
-/* You named this layer divider 10 */
+/* divider 10 */
 #Layer-8 {
   position: absolute;
   left: 725px;
@@ -99,7 +99,7 @@ body {
   z-index: 8;
 }
 
-/* You named this layer divider 9 */
+/* divider 9 */
 #Layer-9 {
   position: absolute;
   left: 725px;
@@ -109,7 +109,7 @@ body {
   z-index: 9;
 }
 
-/* You named this layer divider 8 */
+/* divider 8 */
 #Layer-10 {
   position: absolute;
   left: 725px;
@@ -119,7 +119,7 @@ body {
   z-index: 10;
 }
 
-/* You named this layer divider 7 */
+/* divider 7 */
 #Layer-11 {
   position: absolute;
   left: 725px;
@@ -129,7 +129,7 @@ body {
   z-index: 11;
 }
 
-/* You named this layer divider 6 */
+/* divider 6 */
 #Layer-12 {
   position: absolute;
   left: 725px;
@@ -139,7 +139,7 @@ body {
   z-index: 12;
 }
 
-/* You named this layer divider 5 */
+/* divider 5 */
 #Layer-13 {
   position: absolute;
   left: 725px;
@@ -149,7 +149,7 @@ body {
   z-index: 13;
 }
 
-/* You named this layer divider 4 */
+/* divider 4 */
 #Layer-14 {
   position: absolute;
   left: 678px;
@@ -159,7 +159,7 @@ body {
   z-index: 14;
 }
 
-/* You named this layer divider 3 */
+/* divider 3 */
 #Layer-15 {
   position: absolute;
   left: 723px;
@@ -169,7 +169,7 @@ body {
   z-index: 15;
 }
 
-/* You named this layer divider 2 */
+/* divider 2 */
 #Layer-16 {
   position: absolute;
   left: 678px;
@@ -179,7 +179,7 @@ body {
   z-index: 16;
 }
 
-/* You named this layer divider 1 */
+/* divider 1 */
 #Layer-17 {
   position: absolute;
   left: 718px;
@@ -189,7 +189,7 @@ body {
   z-index: 17;
 }
 
-/* You named this layer vertical divider */
+/* vertical divider */
 #Layer-18 {
   position: absolute;
   left: 658px;
@@ -199,7 +199,7 @@ body {
   z-index: 18;
 }
 
-/* You named this layer body_text */
+/* body_text */
 #Layer-19 {
   position: absolute;
   left: 40px;
@@ -209,7 +209,7 @@ body {
   z-index: 19;
 }
 
-/* You named this layer footer_text */
+/* footer_text */
 #Layer-20 {
   position: absolute;
   left: 50px;
@@ -230,7 +230,7 @@ body {
 	font-weight:bold
 }
 
-/* You named this layer Home    Virtual Lab    Media */
+/* Home    Virtual Lab    Media */
 #Layer-21 {
   position: absolute;
   left: 180px;
@@ -240,7 +240,7 @@ body {
   z-index: 21;
 }
 
-/* You named this layer contact_linkover */
+/* contact_linkover */
 #Layer-22 {
   position: absolute;
   left: 701px;
@@ -250,7 +250,7 @@ body {
   z-index: 22;
 }
 
-/* You named this layer contact_link */
+/* contact_link */
 #Layer-23 {
   position: absolute;
   left: 701px;
@@ -260,7 +260,7 @@ body {
   z-index: 23;
 }
 
-/* You named this layer rosetta_linkover */
+/* rosetta_linkover */
 #Layer-24 {
   position: absolute;
   left: 537px;
@@ -270,7 +270,7 @@ body {
   z-index: 24;
 }
 
-/* You named this layer rosetta_link */
+/* rosetta_link */
 #Layer-25 {
   position: absolute;
   left: 537px;
@@ -280,7 +280,7 @@ body {
   z-index: 25;
 }
 
-/* You named this layer media_linkover */
+/* media_linkover */
 #Layer-26 {
   position: absolute;
   left: 381px;
@@ -290,7 +290,7 @@ body {
   z-index: 26;
 }
 
-/* You named this layer media_link */
+/* media_link */
 #Layer-27 {
   position: absolute;
   left: 381px;
@@ -300,7 +300,7 @@ body {
   z-index: 27;
 }
 
-/* You named this layer virtual_linkover */
+/* virtual_linkover */
 #Layer-28 {
   position: absolute;
   left: 249px;
@@ -310,7 +310,7 @@ body {
   z-index: 28;
 }
 
-/* You named this layer virtual_link */
+/* virtual_link */
 #Layer-29 {
   position: absolute;
   left: 250px;
@@ -320,7 +320,7 @@ body {
   z-index: 29;
 }
 
-/* You named this layer home_linkover */
+/* home_linkover */
 #Layer-30 {
   position: absolute;
   left: 173px;
@@ -330,7 +330,7 @@ body {
   z-index: 30;
 }
 
-/* You named this layer home_link */
+/* home_link */
 #Layer-31 {
   position: absolute;
   left: 173px;
@@ -340,7 +340,7 @@ body {
   z-index: 31;
 }
 
-/* You named this layer pic_jpg */
+/* pic_jpg */
 #Layer-32 {
   position: absolute;
   left: 71px;
@@ -350,7 +350,7 @@ body {
   z-index: 32;
 }
 
-/* You named this layer labass_linkover */
+/* labass_linkover */
 #Layer-33 {
   position: absolute;
   left: 725px;
@@ -360,7 +360,7 @@ body {
   z-index: 33;
 }
 
-/* You named this layer labass_link */
+/* labass_link */
 #Layer-34 {
   position: absolute;
   left: 725px;
@@ -370,7 +370,7 @@ body {
   z-index: 34;
 }
 
-/* You named this layer Reserve_linkover */
+/* Reserve_linkover */
 #Layer-35 {
   position: absolute;
   left: 725px;
@@ -380,7 +380,7 @@ body {
   z-index: 35;
 }
 
-/* You named this layer Reserve_link */
+/* Reserve_link */
 #Layer-36 {
   position: absolute;
   left: 725px;
@@ -390,7 +390,7 @@ body {
   z-index: 36;
 }
 
-/* You named this layer services_linkover */
+/* services_linkover */
 #Layer-37 {
   position: absolute;
   left: 725px;
@@ -400,7 +400,7 @@ body {
   z-index: 37;
 }
 
-/* You named this layer services_link */
+/* services_link */
 #Layer-38 {
   position: absolute;
   left: 725px;
@@ -410,7 +410,7 @@ body {
   z-index: 38;
 }
 
-/* You named this layer Facility_linkover */
+/* Facility_linkover */
 #Layer-39 {
   position: absolute;
   left: 725px;
@@ -420,7 +420,7 @@ body {
   z-index: 39;
 }
 
-/* You named this layer Facility_link */
+/* Facility_link */
 #Layer-40 {
   position: absolute;
   left: 725px;
@@ -430,7 +430,7 @@ body {
   z-index: 40;
 }
 
-/* You named this layer Resources_linkover */
+/* Resources_linkover */
 #Layer-41 {
   position: absolute;
   left: 725px;
@@ -440,7 +440,7 @@ body {
   z-index: 41;
 }
 
-/* You named this layer Resources_link */
+/* Resources_link */
 #Layer-42 {
   position: absolute;
   left: 725px;
@@ -450,7 +450,7 @@ body {
   z-index: 42;
 }
 
-/* You named this layer hours_text */
+/* hours_text */
 #Layer-43 {
   position: absolute;
   left: 736px;
@@ -466,7 +466,7 @@ body {
 	line-height:20px;
 }
 
-/* You named this layer Hours */
+/* Hours */
 #Layer-44 {
   position: absolute;
   left: 798px;
@@ -476,7 +476,7 @@ body {
   z-index: 44;
 }
 
-/* You named this layer NewsContent_text */
+/* NewsContent_text */
 #Layer-45 {
   position: absolute;
   left: 687px;
@@ -486,7 +486,7 @@ body {
   z-index: 45;
 }
 
-/* You named this layer News */
+/* News */
 #Layer-46 {
   position: absolute;
   left: 799px;
