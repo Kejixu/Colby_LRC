@@ -4,6 +4,13 @@
 <meta charset="UTF-8" />
 
 <title>LRC Index</title>
+<link href="http://vjs.zencdn.net/c/video-js.css" rel="stylesheet">
+<script src="http://vjs.zencdn.net/c/video.js"></script>
+
+  <!-- Unless using the CDN hosted version, update the URL to the Flash SWF -->
+  <script>
+    _V_.options.flash.swf = "video-js/video-js.swf";
+  </script>
 
 <meta name="description" content="Colby College Language Resource Center" />
 <meta name="keywords" content="language resource center, LRC, colby, ITS" />
@@ -300,7 +307,11 @@ Search:
     </div>
     <div class="showcase-slide">
       <div class="showcase-content">
-        <img src="images/slideshow/02.jpg" alt="02" width="100%"/>
+        <!--<img src="images/slideshow/02.jpg" alt="02" width="100%"/>-->
+  <video controls width="100%" height="100%" poster="images/slideshow/02.jpg" preload="metadata" data-setup="{}">
+  <source type="video/mp4" src="http://media.w3.org/2010/05/sintel/trailer.mp4">
+</video>
+
       </div>
       <div class="showcase-thumbnail">
         <img src="images/slideshow/02.jpg" alt="02" width="100%" />
